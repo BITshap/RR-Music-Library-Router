@@ -1,4 +1,4 @@
-Music Library
+<h1>Music Library<h1>
 
 Welcome to Music Router! This web application uses JavaScript, HTML, and CSS to display information about artists and their albums. It also utilizes a music API to fetch data about the artists.
 
